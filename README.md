@@ -26,5 +26,8 @@ Photoshop CS6/Blender – The main coder mainly used Photoshop CCS6 and Blender 
 RPG Maker MV – It is heavily used in this project in order to create our game called Obsession. It is a javascript based programming game engine that was released on 2016 to have better performance and functions that was incorporated in the game.
 
 Android Studio/XCode – A compiler that was used to import the game for both IOS and Android Platforms.
-The diagram below is the flowchart on how to play the game:
+
+# Gameplay
+
+https://youtu.be/L8DsCoA1ecA
 
