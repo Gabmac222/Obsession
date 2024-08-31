@@ -10,7 +10,8 @@ beret. Upon the chasing part, the soul will encompass a unique trait for every i
 
 Unlike traditional horror-escape RPG, players will not use any weapon except a flashlight which will make the chasing part and riddles more thrilling
 
-![Gameplay 1](https://drive.google.com/file/d/1rEhziYoIYxA1N6sdW4WV9JdTKUBTimYo/view?usp=drive_link)
+![Gameplay 1](https://i.imgur.com/5emM8CW.png) ![Gameplay 2](https://i.imgur.com/FJ5Ixxt.png)
+![Gameplay 3](https://i.imgur.com/ZaOlpYK.png)
 
 # Methodology
 To create our program, we first conduct a search for required tools and libraries that are linked to our game engine and possibilities that can be created within a time limit. Following that, the main coder will decide what the game's possible functions are before proceeding to build the game using libraries. The story maker and scriptwriter will create the main guide, which will be followed by the game's artists, sound designers, and main coder. The tools listed will serve as the primary guideline and framework for creating the game.
